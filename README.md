@@ -1,4 +1,4 @@
-# EJS-LANDING_PAGE
+# EJS-LANDING-PAGE
 
 A simple Express.js project using EJS as the templating engine and "express-ejs-layouts" for reusable layout support. This project demonstrates routing, layout management, environment configuration, and static file serving.
 
